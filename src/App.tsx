@@ -1,8 +1,6 @@
-import React, { useState } from 'react';
 import './App.css';
 
 function App() {
-  const [showConfirm, setShowConfirm] = useState(false);
 
   const whatsappNumber = '5527997455765';
   const whatsappMessage = 'Olá! Gostaria de confirmar minha presença no 1º aniversário do Arthur!';
